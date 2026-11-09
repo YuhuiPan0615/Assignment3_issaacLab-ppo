@@ -31,7 +31,6 @@ __pycache__/
 /logs/
 /checkpoints/
 /outputs/
-/runs/
 /wandb/
 *.log
 *.pt
